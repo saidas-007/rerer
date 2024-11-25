@@ -55,3 +55,76 @@
 
 </div>
 github.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## ECE-1104_2310017_Lab
+<div align="center">
+
+</div>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18531be8-2a84-4bea-9027-5f1c40549dfa" alt="RUET Logo" style="width:300px;height:250px;">
+</p>
+
+<div align="center">
+  
+  ## *Rajshahi University of Engineering and Technology* <br> 
+  ### *Department of Electrical & Computer Engineering*
+  ### **Lab**<br>
+  *Course Name:* Computer Programming Sessional<br>
+  *Course Code:* ECE 1104
+</div>
+<br>
+<div align="center">
+
+---  
+##  Submitted to: 
+
+### *HAFSA BINTE KIBRIA*
+#### Assistant Professor
+#### Department of Electrical and Computer Engineering
+#### Rajshahi University of Engineering and Technology
+#### Rajshahi - 6204
+
+---
+
+## Submitted by:
+
+#### *Name: Ali Ahsan Muhammad Twaha Iqbal*
+#### Roll No: 2310017
+#### Registration No: 
+#### Department of Electrical and Computer Engineering
+#### Rajshahi University of Engineering and Technology
+#### Rajshahi - 6204
+
+---
+</div>
+
+<div align="center">
+  
+## INDEX:
+
+| Lab No. | Title | Link | Codeforces |
+| :---: | :---: | :---: | :---: |
+| 01 |                    Basic Input-output and Using Conditions and Loops                   | [Lab_01](https://github.com/twahaiqbal/ECE-1104_2310017/blob/main/Lab/Lab_01.md)  | 3 |
+| 02 |                    Using Nested Loops and Printing Patterns                   | [Lab_02](https://github.com/twahaiqbal/ECE-1104_2310017/blob/main/Lab/Lab_02.md)  | 7 |
+| 03 |                    Pattern Generation Using Nested Loops in C                   | [Lab_03](https://github.com/twahaiqbal/ECE-1104_2310017/blob/main/Lab/Lab_03.md)  | 6 |
+| 04 |                    Array Manipulation and Processing Techniques in C                   | [Lab_04](https://github.com/twahaiqbal/ECE-1104_2310017/blob/main/Lab/Lab_04.md)  | 1 |
+
+
+
+</div>
+github.com

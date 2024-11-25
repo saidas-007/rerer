@@ -1,4 +1,4 @@
-## ECE-1104_2310017_Assignment
+## ECE-1104_2310014_Assignment
 <div align="center">
 
 </div>
@@ -31,9 +31,9 @@
 
 ## Submitted by:
 
-#### *Name: Ali Ahsan Muhammad Twaha Iqbal*
-#### Roll No: 2310017
-#### Registration No: 
+#### *Name: Saidas Sadat*
+#### Roll No: 2310014
+#### Registration No: 1067
 #### Department of Electrical and Computer Engineering
 #### Rajshahi University of Engineering and Technology
 #### Rajshahi - 6204
